@@ -13,7 +13,7 @@
     "sourceMap": true,
     "paths": {
       "my-lib": [
-        "dist/my-lib"
+        "projects/my-lib/src/public-api"
       ]
     },
     "declaration": false,
